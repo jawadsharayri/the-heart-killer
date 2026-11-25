@@ -1,0 +1,18 @@
+PUBLISHING THE SITE WITH GITHUB PAGES
+
+1. Create a GitHub repository for the site. A simple name could be the-heart-killer.
+2. Upload the CONTENTS of this folder to the repository root. index.html must be at the root, with style.css, script.js, and the assets folder beside it.
+3. In the repository, open Settings > Pages. Under Build and deployment, select Deploy from a branch, choose the main branch and /(root), then Save.
+4. After GitHub finishes deploying, its Pages settings show the public link. A project link usually follows https://YOUR-USERNAME.github.io/REPOSITORY-NAME/ . Replace the placeholders with your own GitHub username and repository name.
+
+Official guide: https://docs.github.com/en/pages/quickstart
+
+CUSTOM DOMAIN
+
+The website has no custom domain set yet. First publish the site on GitHub Pages. If you later buy a domain, add it in Settings > Pages > Custom domain, then add the DNS records GitHub specifies at your domain registrar. Verify ownership and enable HTTPS. Do not set DNS records before connecting the domain to the Pages repository. DNS changes can take time to spread.
+
+GitHub's current instructions: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+BEFORE YOU SHARE IT
+
+Review all explanations and citations, check that you understand every claim, and personalize the writing with your own explanation and design choices. If this is for school, follow your teacher's AI-use and citation rules; do not claim you wrote AI-generated text entirely by yourself if that would be misleading. Keep the sources list visible.
